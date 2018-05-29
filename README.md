@@ -1,2 +1,2 @@
 # Human-Trajectory-Prediction
-Predict future trajectory in crowd
+Predicts future trajectory in crowd
